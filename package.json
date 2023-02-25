@@ -1,0 +1,19 @@
+{
+  "name": "linkr",
+  "version": "1.0.0",
+  "description": "Link sharing app courtesy of xeq",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajaravivarman/linkr.git"
+  },
+  "author": "Raja Anantharaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajaravivarman/linkr/issues"
+  },
+  "homepage": "https://github.com/rajaravivarman/linkr#readme"
+}
